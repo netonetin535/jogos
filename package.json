@@ -4,7 +4,7 @@
   "description": "Atualiza JSON de jogos no Firebase a partir do sofascore.com",
   "main": "update-jogos.js",
   "scripts": {
-    "start": "node update-jogos.js"
+    "start": "node teste.js"
   },
   "dependencies": {
     "axios": "^1.4.0",
